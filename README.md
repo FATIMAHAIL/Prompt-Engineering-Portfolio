@@ -25,20 +25,34 @@ This repository serves as a technical proof of my skills in **Prompt Engineering
 
 ---
 
-## 📁 Featured Code Snippets | نماذج الأكواد المعتمدة
+## 📁 Final Assessment Showcase | معرض الاختبارات النهائية المعتمدة
 
-### 1. Smartphone Inventory (Attribute Control)
-This snippet demonstrates the ability to pass multiple parameters in a single line.
+لقد اجتزت الاختبارات العملية الثلاثة بنجاح، وهذه هي النماذج البرمجية المعتمدة:
+
+### 1. Employee Identity System (Metadata)
 ```xml
-<Smartphone color="silver" count="5" condition="new">
+<employee id="101" dept="IT">
+  فاطمة علي أبكر علي
+</employee>
 
+### 2. Tech Inventory Hierarchy (Structural Logic)  
+<inventory>
+  <laptop price="3000" />
+  <mouse color="black" />
+</inventory>
+
+
+### 3. Conditional Analysis Request (Complex Instructions)
+<analysis_request language="Arabic">
+  <task priority="urgent">
+    قم بتلخيص النص التالي بأسلوب مهني ومختصر.
+  </task>
+</analysis_request>
 
 ---
 
-### 🎓 Final Professional Assessment | الاختبار النهائي الاحترافي
-I have successfully completed 3 advanced prompt engineering tasks verified by AI:
-1. **Identity Tagging:** Efficient use of ID and Department attributes.
-2. **Inventory Logic:** Structuring multiple objects within a single container.
-3. **Conditional Analysis:** Engineering urgent tasks with language-specific constraints.
-  Inventory entry for latest stock.
-</Smartphone>
+
+🏆 Certification | التوثيق
+Verified by Google Gemini (Jan 2026) as an Expert Beginner in Prompt Engineering. تم التحقق من المستوى بواسطة Google Gemini كمبتدئ خبير في هندسة الأوامر.
+
+
